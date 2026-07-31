@@ -1,0 +1,7 @@
+offered_load_tokens_s,scheduler,prompt_token_throughput,decode_token_throughput,total_token_throughput,measured_offered_token_throughput,token_service_ratio_percent,prompt_latency_s,decode_latency_s,queries_issued,queries_completed,queries_active_at_end,completion_rate_percent,query_completion_throughput
+700,maxflow,504.9,64.9,569.8,661.9,86.092,2.468,1.191,208,76,132,36.538,0.253
+700,swarm,504.9,67.4,572.3,661.9,86.467,2.535,1.15,208,74,134,35.577,0.247
+700,random,504.9,67.5,572.3,661.9,86.474,2.509,1.137,208,74,134,35.577,0.247
+1000,maxflow,753.4,76.8,830.2,981.5,84.579,2.657,1.521,291,83,208,28.522,0.277
+1000,swarm,753.4,80.2,833.6,981.5,84.924,2.749,1.436,291,89,202,30.584,0.297
+1000,random,753.4,80.8,834.2,981.5,84.995,2.702,1.415,291,87,204,29.897,0.29

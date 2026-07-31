@@ -1,0 +1,355 @@
+# -------------- Watch -------------- #
+Last event time = 59.999057068364706
+Next event time = 60.00014014311565
+[Item] active queries: 180, finished queries 0.
+[Item] KV-Cache:
+	Compute-2: 508695/3795264 (13%)
+	Compute-3: 462450/4212960 (11%)
+	Compute-4: 508695/3795264 (13%)
+	Compute-5: 508695/3795264 (13%)
+	Compute-6: 159952/1751008 (9%)
+	Compute-7: 241926/2168832 (11%)
+	Compute-8: 91404/1124224 (8%)
+	Compute-9: 56588/1124224 (5%)
+	Compute-10: 40321/2485120 (2%)
+	Compute-11: 0/2485120 (0%)
+	Compute-12: 138620/1124224 (12%)
+	Compute-13: 68433/2485120 (3%)
+	Compute-14: 0/2485120 (0%)
+	Compute-15: 161284/1124224 (14%)
+	Compute-16: 355902/2168832 (16%)
+	Compute-17: 233708/3004416 (8%)
+	Compute-18: 256130/1751008 (15%)
+	Compute-19: 99029/1751008 (6%)
+	Compute-20: 256130/1751008 (15%)
+	Compute-21: 61988/4258336 (1%)
+	Compute-22: 132252/1124224 (12%)
+	Compute-23: 233708/1124224 (21%)
+	Compute-24: 216480/1577856 (14%)
+	Compute-25: 0/2485120 (0%)
+Realtime bottleneck usage: 0.17887236445783128
+# ------------ End Watch ------------ #
+# -------------- Watch -------------- #
+Last event time = 119.99974686872996
+Next event time = 120.00030973520606
+[Item] active queries: 180, finished queries 1.
+[Item] KV-Cache:
+	Compute-2: 1129183/3795264 (30%)
+	Compute-3: 1026530/4212960 (24%)
+	Compute-4: 1133924/3795264 (30%)
+	Compute-5: 1133943/3795264 (30%)
+	Compute-6: 264803/1751008 (15%)
+	Compute-7: 616080/2168832 (28%)
+	Compute-8: 151316/1124224 (13%)
+	Compute-9: 70712/1124224 (6%)
+	Compute-10: 102680/2485120 (4%)
+	Compute-11: 0/2485120 (0%)
+	Compute-12: 340292/1124224 (30%)
+	Compute-13: 68721/2485120 (3%)
+	Compute-14: 0/2485120 (0%)
+	Compute-15: 410720/1124224 (37%)
+	Compute-16: 567726/2168832 (26%)
+	Compute-17: 378484/3004416 (13%)
+	Compute-18: 252595/1751008 (14%)
+	Compute-19: 123669/1751008 (7%)
+	Compute-20: 252595/1751008 (14%)
+	Compute-21: 61986/4258336 (1%)
+	Compute-22: 337620/1124224 (30%)
+	Compute-23: 378484/1124224 (34%)
+	Compute-24: 278631/1577856 (18%)
+	Compute-25: 0/2485120 (0%)
+Realtime bottleneck usage: 0.298778424900086
+# ------------ End Watch ------------ #
+# -------------- Watch -------------- #
+Last event time = 179.99954339839095
+Next event time = 180.00001994487306
+[Item] active queries: 180, finished queries 6.
+[Item] KV-Cache:
+	Compute-2: 1499520/3795264 (40%)
+	Compute-3: 1363200/4212960 (32%)
+	Compute-4: 1509432/3795264 (40%)
+	Compute-5: 1514973/3795264 (40%)
+	Compute-6: 287208/1751008 (16%)
+	Compute-7: 714846/2168832 (33%)
+	Compute-8: 164124/1124224 (15%)
+	Compute-9: 74356/1124224 (7%)
+	Compute-10: 119141/2485120 (5%)
+	Compute-11: 0/2485120 (0%)
+	Compute-12: 386816/1124224 (34%)
+	Compute-13: 73486/2485120 (3%)
+	Compute-14: 0/2485120 (0%)
+	Compute-15: 476564/1124224 (42%)
+	Compute-16: 601842/2168832 (28%)
+	Compute-17: 401224/3004416 (13%)
+	Compute-18: 262017/1751008 (15%)
+	Compute-19: 130096/1751008 (7%)
+	Compute-20: 262017/1751008 (15%)
+	Compute-21: 64252/4258336 (2%)
+	Compute-22: 386816/1124224 (34%)
+	Compute-23: 401224/1124224 (36%)
+	Compute-24: 290112/1577856 (18%)
+	Compute-25: 0/2485120 (0%)
+Realtime bottleneck usage: 0.39917460287347595
+# ------------ End Watch ------------ #
+# -------------- Watch -------------- #
+Last event time = 239.99995426179274
+Next event time = 240.0000462297587
+[Item] active queries: 180, finished queries 21.
+[Item] KV-Cache:
+	Compute-2: 1614890/3795264 (43%)
+	Compute-3: 1468070/4212960 (35%)
+	Compute-4: 1614901/3795264 (43%)
+	Compute-5: 1615078/3795264 (43%)
+	Compute-6: 300346/1751008 (17%)
+	Compute-7: 788937/2168832 (36%)
+	Compute-8: 171634/1124224 (15%)
+	Compute-9: 61660/1124224 (5%)
+	Compute-10: 131481/2485120 (5%)
+	Compute-11: 0/2485120 (0%)
+	Compute-12: 416118/1124224 (37%)
+	Compute-13: 76698/2485120 (3%)
+	Compute-14: 0/2485120 (0%)
+	Compute-15: 525798/1124224 (47%)
+	Compute-16: 644808/2168832 (30%)
+	Compute-17: 429858/3004416 (14%)
+	Compute-18: 276367/1751008 (16%)
+	Compute-19: 107898/1751008 (6%)
+	Compute-20: 276364/1751008 (16%)
+	Compute-21: 70259/4258336 (2%)
+	Compute-22: 416102/1124224 (37%)
+	Compute-23: 429852/1124224 (38%)
+	Compute-24: 312096/1577856 (20%)
+	Compute-25: 0/2485120 (0%)
+Realtime bottleneck usage: 0.42555089711809246
+# ------------ End Watch ------------ #
+# -------------- Watch -------------- #
+Last event time = 299.9998774350435
+Next event time = 300.0001643571706
+[Item] active queries: 179, finished queries 44.
+[Item] KV-Cache:
+	Compute-2: 1657407/3795264 (44%)
+	Compute-3: 1506565/4212960 (36%)
+	Compute-4: 1657527/3795264 (44%)
+	Compute-5: 1657585/3795264 (44%)
+	Compute-6: 289786/1751008 (17%)
+	Compute-7: 800639/2168832 (37%)
+	Compute-8: 165595/1124224 (15%)
+	Compute-9: 69312/1124224 (6%)
+	Compute-10: 133439/2485120 (5%)
+	Compute-11: 0/2485120 (0%)
+	Compute-12: 437484/1124224 (39%)
+	Compute-13: 77424/2485120 (3%)
+	Compute-14: 0/2485120 (0%)
+	Compute-15: 533755/1124224 (47%)
+	Compute-16: 646406/2168832 (30%)
+	Compute-17: 430933/3004416 (14%)
+	Compute-18: 309533/1751008 (18%)
+	Compute-19: 121293/1751008 (7%)
+	Compute-20: 309491/1751008 (18%)
+	Compute-21: 74538/4258336 (2%)
+	Compute-22: 437480/1124224 (39%)
+	Compute-23: 430932/1124224 (38%)
+	Compute-24: 328113/1577856 (21%)
+	Compute-25: 0/2485120 (0%)
+Realtime bottleneck usage: 0.43675090850069975
+# ------------ End Watch ------------ #
+# -------------- Watch -------------- #
+Last event time = 359.9999408597677
+Next event time = 360.00118898993236
+[Item] active queries: 180, finished queries 62.
+[Item] KV-Cache:
+	Compute-2: 1733908/3795264 (46%)
+	Compute-3: 1576275/4212960 (37%)
+	Compute-4: 1733909/3795264 (46%)
+	Compute-5: 1733919/3795264 (46%)
+	Compute-6: 315532/1751008 (18%)
+	Compute-7: 820806/2168832 (38%)
+	Compute-8: 180308/1124224 (16%)
+	Compute-9: 83316/1124224 (7%)
+	Compute-10: 136801/2485120 (6%)
+	Compute-11: 0/2485120 (0%)
+	Compute-12: 456744/1124224 (41%)
+	Compute-13: 81743/2485120 (3%)
+	Compute-14: 0/2485120 (0%)
+	Compute-15: 547204/1124224 (49%)
+	Compute-16: 697452/2168832 (32%)
+	Compute-17: 464968/3004416 (15%)
+	Compute-18: 316469/1751008 (18%)
+	Compute-19: 145803/1751008 (8%)
+	Compute-20: 316463/1751008 (18%)
+	Compute-21: 79710/4258336 (2%)
+	Compute-22: 450220/1124224 (40%)
+	Compute-23: 464968/1124224 (41%)
+	Compute-24: 345885/1577856 (22%)
+	Compute-25: 0/2485120 (0%)
+Realtime bottleneck usage: 0.45686387033945464
+# ------------ End Watch ------------ #
+# -------------- Watch -------------- #
+Last event time = 419.9990117562046
+Next event time = 420.0078037562046
+[Item] active queries: 180, finished queries 92.
+[Item] KV-Cache:
+	Compute-2: 1750386/3795264 (46%)
+	Compute-3: 1582624/4212960 (38%)
+	Compute-4: 1750386/3795264 (46%)
+	Compute-5: 1750386/3795264 (46%)
+	Compute-6: 336413/1751008 (19%)
+	Compute-7: 834240/2168832 (38%)
+	Compute-8: 192236/1124224 (17%)
+	Compute-9: 84676/1124224 (8%)
+	Compute-10: 139040/2485120 (6%)
+	Compute-11: 0/2485120 (0%)
+	Compute-12: 455867/1124224 (41%)
+	Compute-13: 82041/2485120 (3%)
+	Compute-14: 0/2485120 (0%)
+	Compute-15: 556160/1124224 (49%)
+	Compute-16: 731412/2168832 (34%)
+	Compute-17: 487608/3004416 (16%)
+	Compute-18: 287035/1751008 (16%)
+	Compute-19: 140602/1751008 (8%)
+	Compute-20: 287035/1751008 (16%)
+	Compute-21: 80866/4258336 (2%)
+	Compute-22: 454732/1124224 (40%)
+	Compute-23: 487608/1124224 (43%)
+	Compute-24: 344544/1577856 (22%)
+	Compute-25: 0/2485120 (0%)
+Realtime bottleneck usage: 0.4612026989426823
+# ------------ End Watch ------------ #
+# -------------- Watch -------------- #
+Last event time = 479.99999481477056
+Next event time = 480.00000711657236
+[Item] active queries: 180, finished queries 115.
+[Item] KV-Cache:
+	Compute-2: 1860588/3795264 (49%)
+	Compute-3: 1691424/4212960 (40%)
+	Compute-4: 1860655/3795264 (49%)
+	Compute-5: 1860666/3795264 (49%)
+	Compute-6: 382389/1751008 (22%)
+	Compute-7: 853656/2168832 (39%)
+	Compute-8: 220064/1124224 (20%)
+	Compute-9: 107892/1124224 (10%)
+	Compute-10: 142272/2485120 (6%)
+	Compute-11: 0/2485120 (0%)
+	Compute-12: 458551/1124224 (41%)
+	Compute-13: 86757/2485120 (3%)
+	Compute-14: 0/2485120 (0%)
+	Compute-15: 568928/1124224 (51%)
+	Compute-16: 781128/2168832 (36%)
+	Compute-17: 520752/3004416 (17%)
+	Compute-18: 276596/1751008 (16%)
+	Compute-19: 188811/1751008 (11%)
+	Compute-20: 276589/1751008 (16%)
+	Compute-21: 82947/4258336 (2%)
+	Compute-22: 458539/1124224 (41%)
+	Compute-23: 520752/1124224 (46%)
+	Compute-24: 343925/1577856 (22%)
+	Compute-25: 0/2485120 (0%)
+Realtime bottleneck usage: 0.4902599661051248
+# ------------ End Watch ------------ #
+# -------------- Watch -------------- #
+Last event time = 539.999982645418
+Next event time = 540.0009297906349
+[Item] active queries: 180, finished queries 136.
+[Item] KV-Cache:
+	Compute-2: 1946461/3795264 (51%)
+	Compute-3: 1769501/4212960 (42%)
+	Compute-4: 1946461/3795264 (51%)
+	Compute-5: 1946463/3795264 (51%)
+	Compute-6: 432007/1751008 (25%)
+	Compute-7: 891993/2168832 (41%)
+	Compute-8: 246864/1124224 (22%)
+	Compute-9: 117920/1124224 (10%)
+	Compute-10: 148663/2485120 (6%)
+	Compute-11: 0/2485120 (0%)
+	Compute-12: 467416/1124224 (42%)
+	Compute-13: 96625/2485120 (4%)
+	Compute-14: 0/2485120 (0%)
+	Compute-15: 593083/1124224 (53%)
+	Compute-16: 824904/2168832 (38%)
+	Compute-17: 549936/3004416 (18%)
+	Compute-18: 287616/1751008 (16%)
+	Compute-19: 206261/1751008 (12%)
+	Compute-20: 287612/1751008 (16%)
+	Compute-21: 81947/4258336 (2%)
+	Compute-22: 465816/1124224 (41%)
+	Compute-23: 549936/1124224 (49%)
+	Compute-24: 350562/1577856 (22%)
+	Compute-25: 0/2485120 (0%)
+Realtime bottleneck usage: 0.5128662986290282
+# ------------ End Watch ------------ #
+# -------------- Watch -------------- #
+Last event time = 599.9996964372846
+Next event time = 600.0001191254898
+[Item] active queries: 180, finished queries 155.
+[Item] KV-Cache:
+	Compute-2: 1991088/3795264 (52%)
+	Compute-3: 1810071/4212960 (43%)
+	Compute-4: 1991088/3795264 (52%)
+	Compute-5: 1991088/3795264 (52%)
+	Compute-6: 446783/1751008 (26%)
+	Compute-7: 912078/2168832 (42%)
+	Compute-8: 255324/1124224 (23%)
+	Compute-9: 116060/1124224 (10%)
+	Compute-10: 152012/2485120 (6%)
+	Compute-11: 0/2485120 (0%)
+	Compute-12: 468852/1124224 (42%)
+	Compute-13: 94925/2485120 (4%)
+	Compute-14: 0/2485120 (0%)
+	Compute-15: 608016/1124224 (54%)
+	Compute-16: 817200/2168832 (38%)
+	Compute-17: 544728/3004416 (18%)
+	Compute-18: 320260/1751008 (18%)
+	Compute-19: 203048/1751008 (12%)
+	Compute-20: 318007/1751008 (18%)
+	Compute-21: 87028/4258336 (2%)
+	Compute-22: 468852/1124224 (42%)
+	Compute-23: 544588/1124224 (48%)
+	Compute-24: 352990/1577856 (22%)
+	Compute-25: 0/2485120 (0%)
+Realtime bottleneck usage: 0.5246243739565943
+# ------------ End Watch ------------ #
+# -------------- Watch -------------- #
+Last event time = 659.9991757406265
+Next event time = 660.0000968690977
+[Item] active queries: 180, finished queries 178.
+[Item] KV-Cache:
+	Compute-2: 2018357/3795264 (53%)
+	Compute-3: 1834870/4212960 (44%)
+	Compute-4: 2018357/3795264 (53%)
+	Compute-5: 2018357/3795264 (53%)
+	Compute-6: 427542/1751008 (24%)
+	Compute-7: 954252/2168832 (44%)
+	Compute-8: 244345/1124224 (22%)
+	Compute-9: 107572/1124224 (10%)
+	Compute-10: 159042/2485120 (6%)
+	Compute-11: 0/2485120 (0%)
+	Compute-12: 499451/1124224 (44%)
+	Compute-13: 101465/2485120 (4%)
+	Compute-14: 0/2485120 (0%)
+	Compute-15: 636168/1124224 (57%)
+	Compute-16: 845994/2168832 (39%)
+	Compute-17: 563996/3004416 (19%)
+	Compute-18: 318890/1751008 (18%)
+	Compute-19: 188251/1751008 (11%)
+	Compute-20: 315707/1751008 (18%)
+	Compute-21: 87771/4258336 (2%)
+	Compute-22: 499438/1124224 (44%)
+	Compute-23: 563948/1124224 (50%)
+	Compute-24: 374859/1577856 (24%)
+	Compute-25: 0/2485120 (0%)
+Realtime bottleneck usage: 0.531809381376368
+# ------------ End Watch ------------ #
+# --------------- Scheduler Comparison Result --------------- #
+Topology: distributed
+Scheduler: random
+Initial query count: 180
+Warm-up duration: 60.0s
+Measurement duration: 600.0s
+Prompt token throughput: 337.2 tokens/s
+Decode token throughput: 87.4 tokens/s
+Total token throughput: 424.5 tokens/s
+Avg prompt latency: 32.867s
+Avg decode latency: 2.002s
+Queries completed in measurement window: 182
+Queries active at cutoff: 180
+# ----------------------------------------------------------- #

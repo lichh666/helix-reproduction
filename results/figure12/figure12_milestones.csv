@@ -1,0 +1,4 @@
+event,seconds,throughput_tokens_s
+first_positive_solution,1.0,193.4964086
+optimal_solution_first_found,277.0,286.5874097546
+optimality_confirmed,3802.88,286.5874097546

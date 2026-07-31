@@ -1,0 +1,65 @@
+# -------------- Watch -------------- #
+Last event time = 29.998620300000205
+Next event time = 30.001104745600085
+[Item] active queries: 156, finished queries 0.
+[Item] KV-Cache:
+Node Name: Real Used / Real Total | Expected Used / Expected Total | Expected > Real
+	Compute-2: 70063/1124224 (6%) | 108568 / 1124224 (10%) | True
+	Compute-3: 341964/7980096 (4%) | 466108 / 7980096 (6%) | True
+	Compute-4: 84132/3004416 (3%) | 129624 / 3004416 (4%) | True
+	Compute-5: 172052/1395200 (12%) | 228512 / 1395200 (16%) | True
+	Compute-6: 433203/10845696 (4%) | 595732 / 10845696 (5%) | True
+	Compute-7: 343188/7980096 (4%) | 486284 / 7980096 (6%) | True
+	Compute-8: 84876/3004416 (3%) | 109448 / 3004416 (4%) | True
+	Compute-9: 172564/1395200 (12%) | 251444 / 1395200 (18%) | True
+	Compute-10: 438620/6719808 (7%) | 595732 / 6719808 (9%) | True
+	Compute-11: 220070/4500224 (5%) | 329264 / 4500224 (7%) | True
+	Compute-12: 75356/1124224 (7%) | 106744 / 1124224 (9%) | True
+	Compute-13: 227607/4500224 (5%) | 340340 / 4500224 (8%) | True
+	Compute-14: 155468/1395200 (11%) | 244984 / 1395200 (18%) | True
+	Compute-15: 81477/1124224 (7%) | 115776 / 1124224 (10%) | True
+	Compute-16: 157500/1395200 (11%) | 255772 / 1395200 (18%) | True
+	Compute-17: 161544/3004416 (5%) | 209992 / 3004416 (7%) | True
+	Compute-18: 81480/1124224 (7%) | 115776 / 1124224 (10%) | True
+	Compute-19: 231489/4500224 (5%) | 329384 / 4500224 (7%) | True
+	Compute-20: 157808/3004416 (5%) | 233156 / 3004416 (8%) | True
+	Compute-21: 76806/1124224 (7%) | 115172 / 1124224 (10%) | True
+	Compute-22: 268488/7980096 (3%) | 385740 / 7980096 (5%) | True
+	Compute-23: 441728/6719808 (7%) | 595732 / 6719808 (9%) | True
+	Compute-24: 230752/4500224 (5%) | 341080 / 4500224 (8%) | True
+	Compute-25: 102512/3004416 (3%) | 151296 / 3004416 (5%) | True
+	Compute-26: 172388/4500224 (4%) | 251444 / 4500224 (6%) | True
+	Compute-27: 75672/1124224 (7%) | 108540 / 1124224 (10%) | True
+	Compute-28: 153012/1395200 (11%) | 242180 / 1395200 (17%) | True
+	Compute-29: 437622/10845696 (4%) | 595732 / 10845696 (5%) | True
+	Compute-30: 107464/3004416 (4%) | 146852 / 3004416 (5%) | True
+	Compute-31: 77036/1124224 (7%) | 115332 / 1124224 (10%) | True
+	Compute-32: 78441/1124224 (7%) | 108720 / 1124224 (10%) | True
+	Compute-33: 438620/10845696 (4%) | 595732 / 10845696 (5%) | True
+	Compute-34: 272224/7980096 (3%) | 362576 / 7980096 (5%) | True
+	Compute-35: 438620/10845696 (4%) | 595732 / 10845696 (5%) | True
+	Compute-36: 172052/4500224 (4%) | 228512 / 4500224 (5%) | True
+	Compute-37: 442768/6719808 (7%) | 595732 / 6719808 (9%) | True
+	Compute-38: 0/1124224 (0%) | 0 / 1124224 (0%) | True
+	Compute-39: 106804/3004416 (4%) | 151016 / 3004416 (5%) | True
+	Compute-40: 159308/1395200 (11%) | 233216 / 1395200 (17%) | True
+	Compute-41: 109416/3004416 (4%) | 145932 / 3004416 (5%) | True
+	Compute-42: 448980/6719808 (7%) | 595732 / 6719808 (9%) | True
+	Compute-43: 0/1124224 (0%) | 0 / 1124224 (0%) | True
+Realtime bottleneck usage: 0.07782810674185847
+Expected bottleneck usage: 0.11822781715185693
+# ------------ End Watch ------------ #
+# ---------------- Pruning Comparison Result ---------------- #
+Cluster size: 42
+Pruning: unpruned
+Warm-up duration: 15.0s
+Measurement duration: 30.0s
+Static max flow: 4892.242 tokens/s
+Prompt token throughput: 5049.0 tokens/s
+Decode token throughput: 86.6 tokens/s
+Total token throughput: 5135.6 tokens/s
+Avg prompt latency: 3.029s
+Avg decode latency: 2.126s
+Queries completed in measurement window: 2
+Queries active at cutoff: 312
+# ----------------------------------------------------------- #

@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Local clone and generated workspaces
+third_party/
+workspace/
+tmp/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Credentials and local configuration
+.env
+.env.*
+*.key
+*.pem
+gurobi.lic
+
+# Papers, personal notes, model weights and large archives
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.tar
+*.tar.gz
+*.zip
+*.pt
+*.pth
+*.safetensors
+
+# Solver-generated large files
+*.lp
+*.sol

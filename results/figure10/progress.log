@@ -1,0 +1,18 @@
+START topology=single scheduler=maxflow 2026-07-31T22:15:58+08:00
+END topology=single scheduler=maxflow status=0 2026-07-31T22:18:21+08:00
+START topology=single scheduler=swarm 2026-07-31T22:18:21+08:00
+END topology=single scheduler=swarm status=0 2026-07-31T22:20:24+08:00
+START topology=single scheduler=random 2026-07-31T22:20:24+08:00
+END topology=single scheduler=random status=0 2026-07-31T22:22:23+08:00
+START topology=distributed scheduler=maxflow 2026-07-31T22:22:23+08:00
+END topology=distributed scheduler=maxflow status=0 2026-07-31T22:24:21+08:00
+START topology=distributed scheduler=swarm 2026-07-31T22:24:21+08:00
+END topology=distributed scheduler=swarm status=0 2026-07-31T22:26:31+08:00
+START topology=distributed scheduler=random 2026-07-31T22:26:31+08:00
+END topology=distributed scheduler=random status=0 2026-07-31T22:28:47+08:00
+START topology=distributed scheduler=shortest_queue 2026-07-31T22:28:47+08:00
+END topology=distributed scheduler=shortest_queue status=0 2026-07-31T22:30:54+08:00
+RERUN START topology=single scheduler=swarm initial=240 2026-07-31T22:32:11+08:00
+RERUN END topology=single scheduler=swarm status=0 2026-07-31T22:34:26+08:00
+RERUN START topology=single scheduler=random initial=240 2026-07-31T22:34:26+08:00
+RERUN END topology=single scheduler=random status=0 2026-07-31T22:36:29+08:00

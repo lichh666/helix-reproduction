@@ -1,0 +1,4 @@
+scheduler,decode_speed_tokens_s,prompt_latency_s,decode_latency_s
+maxflow,249.0,3.235,1.556
+swarm,189.7,2.732,1.255
+random,199.4,2.684,1.194

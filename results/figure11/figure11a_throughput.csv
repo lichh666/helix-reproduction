@@ -1,0 +1,3 @@
+nodes,pruned_decode_tokens_s,unpruned_decode_tokens_s,artifact_gain_pct,paper_gain_pct,source
+24,98.0,74.9,30.84,16.0,local official-parameter run
+42,645.6,574.238,12.43,2.0,artifact README precomputed long run

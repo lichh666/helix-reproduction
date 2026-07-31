@@ -1,0 +1,8 @@
+topology,scheduler,initial_queries,warmup_s,measurement_s,prompt_throughput_tokens_s,decode_throughput_tokens_s,total_throughput_tokens_s,prompt_latency_s,decode_latency_s,completed_queries
+single,maxflow,20,60,300,899.0,249.0,1148.0,3.235,1.556,299
+single,swarm,240,60,300,553.0,189.7,742.8,2.732,1.255,219
+single,random,240,60,300,539.9,199.4,739.2,2.684,1.194,214
+distributed,maxflow,20,60,600,452.3,99.8,552.1,9.444,2.484,220
+distributed,swarm,180,60,600,331.2,81.7,412.9,31.173,2.133,181
+distributed,random,180,60,600,337.2,87.4,424.5,32.867,2.002,182
+distributed,shortest_queue,180,60,600,347.1,83.6,430.7,33.679,2.08,186

@@ -1,0 +1,125 @@
+# -------------- Watch -------------- #
+Last event time = 59.99861201280039
+Next event time = 60.00106843680035
+[Item] active queries: 184, finished queries 1.
+[Item] KV-Cache:
+Node Name: Real Used / Real Total | Expected Used / Expected Total | Expected > Real
+	Compute-2: 860771/1751008 (49%) | 1249311 / 1751008 (71%) | True
+	Compute-3: 842096/1751008 (48%) | 1249311 / 1751008 (71%) | True
+	Compute-4: 832616/1751008 (48%) | 1249311 / 1751008 (71%) | True
+	Compute-5: 1606008/3377472 (48%) | 2141676 / 3377472 (63%) | True
+	Compute-6: 1600008/3377472 (47%) | 2141676 / 3377472 (63%) | True
+	Compute-7: 1615458/3377472 (48%) | 2141676 / 3377472 (63%) | True
+	Compute-8: 1600008/3377472 (47%) | 2141676 / 3377472 (63%) | True
+	Compute-9: 474652/3004416 (16%) | 713892 / 3004416 (24%) | True
+	Compute-10: 851237/1751008 (49%) | 1249311 / 1751008 (71%) | True
+Realtime bottleneck usage: 0.49158598932729036
+Expected bottleneck usage: 0.7134810349238838
+# ------------ End Watch ------------ #
+# -------------- Watch -------------- #
+Last event time = 119.99890953760645
+Next event time = 120.00031691040645
+[Item] active queries: 199, finished queries 16.
+[Item] KV-Cache:
+Node Name: Real Used / Real Total | Expected Used / Expected Total | Expected > Real
+	Compute-2: 1152844/1751008 (66%) | 1400980 / 1751008 (80%) | True
+	Compute-3: 1152817/1751008 (66%) | 1400980 / 1751008 (80%) | True
+	Compute-4: 1151460/1751008 (66%) | 1400980 / 1751008 (80%) | True
+	Compute-5: 1976316/3377472 (59%) | 2401680 / 3377472 (71%) | True
+	Compute-6: 1976304/3377472 (59%) | 2401680 / 3377472 (71%) | True
+	Compute-7: 1976316/3377472 (59%) | 2401680 / 3377472 (71%) | True
+	Compute-8: 1976304/3377472 (59%) | 2401680 / 3377472 (71%) | True
+	Compute-9: 657976/3004416 (22%) | 800560 / 3004416 (27%) | True
+	Compute-10: 1152839/1751008 (66%) | 1400980 / 1751008 (80%) | True
+Realtime bottleneck usage: 0.6583887680695919
+Expected bottleneck usage: 0.8000991428936932
+# ------------ End Watch ------------ #
+# -------------- Watch -------------- #
+Last event time = 179.9989937212028
+Next event time = 180.00039372120278
+[Item] active queries: 188, finished queries 88.
+[Item] KV-Cache:
+Node Name: Real Used / Real Total | Expected Used / Expected Total | Expected > Real
+	Compute-2: 1195208/1751008 (68%) | 1397774 / 1751008 (80%) | True
+	Compute-3: 1189713/1751008 (68%) | 1397774 / 1751008 (80%) | True
+	Compute-4: 1188121/1751008 (68%) | 1397774 / 1751008 (80%) | True
+	Compute-5: 2052804/3377472 (61%) | 2396184 / 3377472 (71%) | True
+	Compute-6: 2052793/3377472 (61%) | 2396184 / 3377472 (71%) | True
+	Compute-7: 2052804/3377472 (61%) | 2396184 / 3377472 (71%) | True
+	Compute-8: 2052792/3377472 (61%) | 2396184 / 3377472 (71%) | True
+	Compute-9: 677890/3004416 (23%) | 798728 / 3004416 (27%) | True
+	Compute-10: 1189713/1751008 (68%) | 1397774 / 1751008 (80%) | True
+Realtime bottleneck usage: 0.6825828322886018
+Expected bottleneck usage: 0.7982681975182295
+# ------------ End Watch ------------ #
+# -------------- Watch -------------- #
+Last event time = 239.9992874380025
+Next event time = 240.00002770600202
+[Item] active queries: 184, finished queries 125.
+[Item] KV-Cache:
+Node Name: Real Used / Real Total | Expected Used / Expected Total | Expected > Real
+	Compute-2: 1252517/1751008 (72%) | 1400770 / 1751008 (80%) | True
+	Compute-3: 1252504/1751008 (72%) | 1400770 / 1751008 (80%) | True
+	Compute-4: 1252501/1751008 (72%) | 1400770 / 1751008 (80%) | True
+	Compute-5: 2149236/3377472 (64%) | 2401320 / 3377472 (71%) | True
+	Compute-6: 2147192/3377472 (64%) | 2401320 / 3377472 (71%) | True
+	Compute-7: 2149241/3377472 (64%) | 2401320 / 3377472 (71%) | True
+	Compute-8: 2147184/3377472 (64%) | 2401320 / 3377472 (71%) | True
+	Compute-9: 715688/3004416 (24%) | 800440 / 3004416 (27%) | True
+	Compute-10: 1252510/1751008 (72%) | 1400770 / 1751008 (80%) | True
+Realtime bottleneck usage: 0.7153119802993475
+Expected bottleneck usage: 0.7999792119739031
+# ------------ End Watch ------------ #
+# -------------- Watch -------------- #
+Last event time = 299.9956763136038
+Next event time = 300.0028784696002
+[Item] active queries: 169, finished queries 168.
+[Item] KV-Cache:
+Node Name: Real Used / Real Total | Expected Used / Expected Total | Expected > Real
+	Compute-2: 1313851/1751008 (75%) | 1401806 / 1751008 (80%) | True
+	Compute-3: 1305549/1751008 (75%) | 1401806 / 1751008 (80%) | True
+	Compute-4: 1305549/1751008 (75%) | 1401806 / 1751008 (80%) | True
+	Compute-5: 2252316/3377472 (67%) | 2403096 / 3377472 (71%) | True
+	Compute-6: 2252316/3377472 (67%) | 2403096 / 3377472 (71%) | True
+	Compute-7: 2252316/3377472 (67%) | 2403096 / 3377472 (71%) | True
+	Compute-8: 2252316/3377472 (67%) | 2403096 / 3377472 (71%) | True
+	Compute-9: 746028/3004416 (25%) | 801032 / 3004416 (27%) | True
+	Compute-10: 1312795/1751008 (75%) | 1401806 / 1751008 (80%) | True
+Realtime bottleneck usage: 0.7503398042727389
+Expected bottleneck usage: 0.8005708711782014
+# ------------ End Watch ------------ #
+# -------------- Watch -------------- #
+Last event time = 359.999849574356
+Next event time = 360.0000543119557
+[Item] active queries: 161, finished queries 198.
+[Item] KV-Cache:
+Node Name: Real Used / Real Total | Expected Used / Expected Total | Expected > Real
+	Compute-2: 1372243/1751008 (78%) | 1402240 / 1751008 (80%) | True
+	Compute-3: 1371137/1751008 (78%) | 1402240 / 1751008 (80%) | True
+	Compute-4: 1371132/1751008 (78%) | 1402240 / 1751008 (80%) | True
+	Compute-5: 2352432/3377472 (70%) | 2403840 / 3377472 (71%) | True
+	Compute-6: 2352432/3377472 (70%) | 2403840 / 3377472 (71%) | True
+	Compute-7: 2352434/3377472 (70%) | 2403840 / 3377472 (71%) | True
+	Compute-8: 2352432/3377472 (70%) | 2403840 / 3377472 (71%) | True
+	Compute-9: 783504/3004416 (26%) | 801280 / 3004416 (27%) | True
+	Compute-10: 1372234/1751008 (78%) | 1402240 / 1751008 (80%) | True
+Realtime bottleneck usage: 0.7836874531698312
+Expected bottleneck usage: 0.8008187284124344
+# ------------ End Watch ------------ #
+# ---------------- Layout Comparison Result ---------------- #
+Layout: homogeneous
+Scheduler: maxflow
+Warm-up duration: 60.0s
+Measurement duration: 300.0s
+Max compute throughput: 2803.861 tokens/s
+Static max flow: 531.703 tokens/s
+Prompt token throughput: 401.7 tokens/s
+Decode token throughput: 182.9 tokens/s
+Total token throughput: 584.6 tokens/s
+Avg prompt latency: 1.690s
+Avg decode latency: 0.993s
+Prompt iterations completed: 159
+Decode iterations completed: 54871
+Queries completed in measurement window: 200
+Queries active at cutoff: 161
+# ---------------------------------------------------------- #

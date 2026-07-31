@@ -1,0 +1,10 @@
+offered_load_tokens_s,scheduler,decode_speed_tokens_s,prompt_latency_s,decode_latency_s
+400,maxflow,45.3,2.387,0.859
+400,swarm,46.8,2.428,0.829
+400,random,48.0,2.389,0.81
+700,maxflow,64.9,2.468,1.191
+700,swarm,67.4,2.535,1.15
+700,random,67.5,2.509,1.137
+1000,maxflow,76.8,2.657,1.521
+1000,swarm,80.2,2.749,1.436
+1000,random,80.8,2.702,1.415

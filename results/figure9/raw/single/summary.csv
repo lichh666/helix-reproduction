@@ -1,0 +1,5 @@
+layout,scheduler,warmup_s,measurement_s,static_max_flow_tokens_s,prompt_throughput_tokens_s,decode_throughput_tokens_s,total_throughput_tokens_s,prompt_latency_s,decode_latency_s,completed_queries,active_queries_at_cutoff
+helix,maxflow,60,300,1289.556,899.0,249.0,1148.0,3.235,1.556,299,360
+petals,maxflow,60,300,952.107,484.0,208.6,692.5,2.299,0.951,235,182
+swarm,maxflow,60,300,757.853,332.9,125.2,458.1,3.617,1.711,156,194
+homogeneous,maxflow,60,300,531.703,401.7,182.9,584.6,1.69,0.993,200,161
